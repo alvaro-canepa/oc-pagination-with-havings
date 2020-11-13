@@ -2,7 +2,6 @@
   "name":"planetadeleste/oc-pagination-with-havings",
   "description":"Makes it possible to use pagination with havings in queries.",
   "homepage":"https://github.com/planetadeleste/oc-pagination-with-havings",
-  "minimum-stability":"stable",
   "license":"MIT",
   "authors":[
     {
