@@ -1,0 +1,29 @@
+{
+  "name":"planetadeleste/oc-pagination-with-havings",
+  "description":"Makes it possible to use pagination with havings in queries.",
+  "homepage":"https://github.com/planetadeleste/oc-pagination-with-havings",
+  "minimum-stability":"stable",
+  "license":"MIT",
+  "authors":[
+    {
+      "name":"Alvaro Canepa",
+      "email":"bfpdevel@gmail.com"
+    }
+  ],
+  "keywords":
+  [
+    "pagination",
+    "having",
+    "laravel",
+    "octobercms"
+  ],
+  "require":{
+    "php": ">=7.0",
+    "october/october": "~1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PlanetaDelEste\\PaginationWithHavings\\": "src/"
+    }
+  }
+}
